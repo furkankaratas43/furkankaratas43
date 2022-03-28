@@ -11,7 +11,7 @@ I live in Eskisehir. I have developed myself on the web for over 9 years. I am c
 
 ## ⚡ Technologies
 Talk to me about
-- Front-end development using **HTML, CSS, JavaScript (Angular)**
+- Front-end development using **HTML, CSS, JavaScript (React)**
 - Backend development using **PHP, .Net Core**
 - Database using **SQL, PostgreSQL, ElasticSearch**
 - Mobile development using **Flutter**
