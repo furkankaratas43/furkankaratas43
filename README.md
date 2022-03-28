@@ -7,7 +7,7 @@
  
 I am Furkan Karataş 🧔
 
-I live in Eskisehir. I have developed myself on the web for over 5 years. I am currently working as a full stack developer at the software company👨‍💻.
+I live in Eskisehir. I have developed myself on the web for over 9 years. I am currently working as a full stack developer at the software company👨‍💻.
 
 ## ⚡ Technologies
 Talk to me about
