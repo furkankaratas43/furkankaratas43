@@ -5,7 +5,7 @@
 [![GitHub](https://img.shields.io/badge/SUPPORT%20AT-GITHUB-blue?style=for-the-badge&logo=github)](https://github.com/furkankaratas43) [![Linkedin](https://img.shields.io/badge/MY%20PROFILE-Linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/furkankaratas43/) 
  [![Contact](https://img.shields.io/badge/CONTACT-MAIL-yellow?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@furkankaratas.com.tr)
  
-I am Furkan Karataş 🧔
+I'm Furkan 🧔
 
 I live in Eskisehir. I have developed myself on the web for over 9 years. I am currently working as a full stack developer at the software company👨‍💻.
 
@@ -14,13 +14,13 @@ Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (React)**
 - Backend development using **PHP, .Net Core**
 - Database using **SQL, PostgreSQL, ElasticSearch**
-- Mobile development using **Flutter**
+- Mobile development using **Flutter, MAUI**
 - Making for **Relational Database Management Systems**
 
 ## 🤔 Hello World!! 
 - 💬 Ask me about anything and everything.
 - 🐥Check my Twitter Account [![Twitter](https://img.shields.io/badge/FOLLOW%20ME-TWITTER-informational?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/_furkankaratas)
-- 📽 Watch my videos: [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-YOUTUBE-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/c/FurkanKarata%C5%9F43/)
+- 📽 Watch my videos: [![YouTube](https://img.shields.io/badge/FOLLOW%20ME-YOUTUBE-red?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@furkankaratas43)
 - 🎯 Check out my Instagram page: [![INSTAGRAM](https://img.shields.io/badge/FOLLOW%20ME-INSTAGRAM-blueviolet?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/_furkankaratas)
 
 
