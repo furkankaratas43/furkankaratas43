@@ -7,7 +7,7 @@
  
 I'm Furkan 🧔
 
-I live in Eskisehir. I have developed myself on the web for over 9 years. I am currently working as a full stack developer at the software company👨‍💻.
+I live in Ankara. I have developed myself on the web for over 10 years. I am currently working as a Software and Support Specialist👨‍💻.
 
 ## ⚡ Technologies
 Talk to me about
