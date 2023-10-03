@@ -12,7 +12,7 @@ I live in Ankara. I have developed myself on the web for over 10 years. I am cur
 ## ⚡ Technologies
 Talk to me about
 - Front-end development using **HTML, CSS, JavaScript (React)**
-- Backend development using **PHP, .Net Core**
+- Backend development using **PHP, .Net Core, NodeJS**
 - Database using **SQL, PostgreSQL, ElasticSearch**
 - Mobile development using **Flutter, MAUI**
 - Making for **Relational Database Management Systems**
